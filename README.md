@@ -30,3 +30,5 @@ Esto es una sentencia con una nota a pie de página. [^1]
 [^1]: Esta es la nota en el pie de página.
 
 ~~El mundo es plano.~~
+
+Tengo que destacar ==estas palabras importantes==. 
