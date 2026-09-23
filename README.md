@@ -31,8 +31,7 @@ Esto es una sentencia con una nota a pie de página. [^1]
 
 ~~El mundo es plano.~~
 
-Tengo que destacar ==estas palabras importantes==. 
-
+Tengo que destacar ==estas palabras importantes==.
 ---
 ---
 ---
