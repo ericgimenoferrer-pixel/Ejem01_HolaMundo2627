@@ -32,3 +32,4 @@ Esto es una sentencia con una nota a pie de página. [^1]
 ~~El mundo es plano.~~
 
 Tengo que destacar ==estas palabras importantes==. 
+I need to highlight these ==very important words==.
