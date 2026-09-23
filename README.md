@@ -19,6 +19,13 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los títulos
 
 [Gregorio Fernández](https://www.gregoriofer.com)
 
-| versióno | Modificación | Propietario de la modificación |
+![alt text](image.jpg)
+
+| Versión | Modificación | Propietario de la Modificación |
 | --- | --- | --- |
 | 1.0 | Creación del readme | Eric Gimeno |
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
