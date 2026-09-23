@@ -25,7 +25,8 @@ Esta modificación nos sirve para aprender markdown que por ejemplo los títulos
 | --- | --- | --- |
 | 1.0 | Creación del readme | Eric Gimeno |
 
-Here's a sentence with a footnote. [^1]
+Esto es una sentencia con una nota a pie de página. [^1]
 
-[^1]: This is the footnote.
+[^1]: Esta es la nota en el pie de página.
 
+~~El mundo es plano.~~
